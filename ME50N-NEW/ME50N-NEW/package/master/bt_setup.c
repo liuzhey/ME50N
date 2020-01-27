@@ -1,5 +1,7 @@
 #include "tools.h"
 
+#define  TEST_VERSION     2.0.2.0
+
 void BTNamePINSetup(int n)
 {
     int ret, len;;
